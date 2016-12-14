@@ -11,3 +11,4 @@ foo-bar
 Another line
 
 Adding foo!
+Adding change for Youtrack
