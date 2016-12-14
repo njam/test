@@ -9,3 +9,5 @@ Changes by tomasz
 More changes
 foo-bar
 Another line
+
+Adding foo!
